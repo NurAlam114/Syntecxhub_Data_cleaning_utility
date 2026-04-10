@@ -1,0 +1,18 @@
+Customer ID,Customer Name,Country,Order Date,Product Category,Quantity,Unit Price,Discount,Sales Rep,Rating,Notes,Joined Span
+C001,Rahim Uddin,Bangladesh ,15-01-2024,Electronics,2,1200.5,5,Nabil,4.5*,priority client,2019-2024
+C002,Karim Hasan,bangladesh,15-02-2024,Furniture,,850,,Mitu,4.0*,,2020-2024
+C003,Anika Sultana,India,12-03-2024,Electronics,3,NaN,10,Nabil,3.8*,follow up,2018-2023
+C004,  John Doe,USA,07-03-2024,Office Supplies,1,45.99,0,Sam,5.0*,,2017-2021
+C005,Fatema Noor,,01-04-2024,Electronics,4,399.99,7.5,Mitu,4.2*,,2021-2024
+C006,Asha Roy,India,12-04-2024,Furniture,-2,550,5,Sam,3.5*,returned item,2016-2024
+C007,Michael Lee,UK,05-05-2024,Electronics,5,"$1,250 ",12,Nabil,4.9*,vip,2015-2024
+C008,Sara Khan,Pakistan,18-05-2024,Office Supplies,2,88.75,,Mitu,4.1*,,2022-2024
+C009,Tania Ahmed,Bangladesh,22-06-2024,Electronics,3,650,5,Sam,bad*,new,2023-2024
+C010,David Smith,USA,30-06-2024,Furniture,1,980.4,8,Nabil,4.7*,,2014-2024
+C011,Nusrat Jahan,Bangladesh,11-07-2024,Office Supplies,,75.25,0,Mitu,4.3*,,2019-2024
+C012,Imran Ali,Pakistan,25-07-2024,Electronics,2,1100,5,Sam,4.6*,priority client,2018-2024
+C013,Lisa Wong,Singapore,01-08-2024,Electronics,1,"1,500.00",15,Nabil,4.8*,,2020-2024
+C014,Mehedi Hasan,Bangladesh,14-08-2024,Furniture,3,700,five,Sam,4.0*,,2017-2024
+C015,Priya Das,India,02-09-2024,Office Supplies,2,65.5,0,Mitu,4.4*,,2021-2024
+C002,Karim Hasan,bangladesh,15-02-2024,Furniture,,850,,Mitu,4.0*,,2020-2024
+C009,Tania Ahmed,Bangladesh,22-06-2024,Electronics,3,650,5,Sam,bad*,new,2023-2024
